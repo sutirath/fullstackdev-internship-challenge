@@ -1,4 +1,5 @@
 # vending_machine
+DEMO https://vending-machine-84489.firebaseapp.com
 
 ## Project setup
 ```
